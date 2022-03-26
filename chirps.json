@@ -1,0 +1,5 @@
+{
+  "0": { "user": "john", "text": "hey there" },
+  "1": { "user": "tom", "text": "okay then" },
+  "nextid": 2
+}
